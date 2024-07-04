@@ -1,4 +1,4 @@
-<h1 align="center">Hi there ! 👋 ,I'm Nour</h1>
+<h1 align="center">Hi there ! 👋 ,I'm <span color="blue">Nour</span></h1>
 
 ###
 
@@ -11,7 +11,7 @@
 
 ###
 
-<h2 align="left">A Full Stack JavaScript Developer 🚀. I consider myself as a skilled JS Developer With Exceptional talents and skils.<br>Stacks I have worked with : MERN , React , Next.js , Next.js+PostgreSQL and PHP+MY SQL .<br>Things I have recently experimented With :  3JS , gsap(animation) <br> and a lot of other ui.libs...</h2>
+<h2 align="left">A Full Stack JavaScript Developer 🚀. I consider myself as a skilled JS Developer With Exceptional talents and skils.<br>Stacks I have worked with : MERN , React , Next.js , Next.js+PostgreSQL and PHP+MY SQL .<br>Things I have recently experimented With :  3JS , gsap(animation) <br> And a lot of other ui.libs...</h2>
 
 
 ###
