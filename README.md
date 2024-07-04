@@ -11,7 +11,7 @@
 
 ###
 
-<h2 align="left">A Full Stack JavaScript Developer 🚀.<br> I consider myself as a skilled JS Developer With Exceptional talents and skils.<br>Stacks I have worked with : MERN , React , Next.js , Next.js+PostgreSQL and PHP+MY SQL .<br>Things I have recently experimented With :  3JS , gsap(animation) And a lot of other UI libraries...<br></h2>
+<h2 align="left">A Full Stack JavaScript Developer 🚀.<br> I consider myself as a skilled JS Developer With Exceptional talents and skils.<br>Stacks I have worked with : MERN , React , Next.js , Next.js+PostgreSQL and PHP+MY SQL .<br>Things I have recently experimented With :  3JS , gsap(animation) And a lot of other UI libraries...<br>ͺ</h2>
 
 
 ###
