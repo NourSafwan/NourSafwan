@@ -15,26 +15,6 @@
 
 <h2 align="left">A Full Stack JavaScript Developer 🚀. I consider myself as a skilled JS Developer With Exceptional talents and skils.<br>Stacks I have worked with : MERN , React , Next.js , Next.js+PostgreSQL and PHP+MY SQL .<br>Things I have recently experimented With :  3JS , gsap(animation) and a lot of other ui.libs...</h2>
 
-###
-
-<br clear="both">
-
-
-###
-
-<br clear="both">
-
-<h2 align="left">My github stats :</h2>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NourSafwan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=NourSafwan&locale=en&mode=weekly&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NourSafwan&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
 
 ###
 
@@ -93,6 +73,27 @@
 ###
 
 <br clear="both">
+
+###
+
+<br clear="both">
+
+
+###
+
+<br clear="both">
+
+<h2 align="left">My github stats :</h2>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NourSafwan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=NourSafwan&locale=en&mode=weekly&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NourSafwan&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 
 ###
