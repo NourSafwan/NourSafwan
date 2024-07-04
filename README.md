@@ -4,11 +4,17 @@
 
 ###
 
-<h2 align="left">A Full Stack JavaScript Developer 🚀. I consider myself as a skilled JS Developer With Exceptional talents and skils.<br>Stacks I have worked with : MERN , React , Next.js , Next.js+PostgreSQL and PHP+MY SQL .<br>Things I have recently experimented With :  3JS , gsap(animation) and a lot of other ui.libs...</h2>
+<br clear="both">
+
+<p align="left"></p>
 
 ###
 
-<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzV3ZWpxZ2oyMG1qMm94ZXlveGV1M3VkeGhpenA3bzEyem8xcno2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nv6bOexvEyVV50U4Qz/giphy.webp"  />
+<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVobGl1bHYzMzR3a21rcjljODNwbHd3eHdseTY5dno5bnQzaXJnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.webp"  />
+
+###
+
+<h2 align="left">A Full Stack JavaScript Developer 🚀. I consider myself as a skilled JS Developer With Exceptional talents and skils.<br>Stacks I have worked with : MERN , React , Next.js , Next.js+PostgreSQL and PHP+MY SQL .<br>Things I have recently experimented With :  3JS , gsap(animation) and a lot of other ui.libs...</h2>
 
 ###
 
@@ -88,7 +94,9 @@
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzV3ZWpxZ2oyMG1qMm94ZXlveGV1M3VkeGhpenA3bzEyem8xcno2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nv6bOexvEyVV50U4Qz/giphy.webp"  />
+<br clear="both">
+
+<h2 align="left"></h2>
 
 ###
 
@@ -98,10 +106,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nouraldin-safwan-343ab8221/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="90" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="160" height="110" alt="linkedin logo"  />
   </a>
   <a href="mailto:nouraldin374@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="90" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="160" height="110" alt="gmail logo"  />
   </a>
 </div>
 
@@ -109,6 +117,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/NourSafwan/NourSafwan/output/snake.svg" alt="Snake animation" />
+<h2 align="left"></h2>
 
 ###
