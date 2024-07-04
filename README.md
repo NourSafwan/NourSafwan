@@ -6,7 +6,6 @@
 
 <br clear="both">
 
-<p align="left"></p>
 
 ###
 
@@ -20,7 +19,6 @@
 
 <br clear="both">
 
-<p align="left"></p>
 
 ###
 
@@ -96,7 +94,6 @@
 
 <br clear="both">
 
-<h2 align="left"></h2>
 
 ###
 
@@ -116,7 +113,3 @@
 ###
 
 <br clear="both">
-
-<h2 align="left"></h2>
-
-###
