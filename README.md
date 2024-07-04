@@ -74,15 +74,6 @@
 
 <br clear="both">
 
-###
-
-<br clear="both">
-
-
-###
-
-<br clear="both">
-
 <h2 align="left">My github stats :</h2>
 
 ###
