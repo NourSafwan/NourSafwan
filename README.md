@@ -1,4 +1,4 @@
-<h1 align="center">Hi there ! 👋 ,I'm <span color="blue">Nour</span></h1>
+<h1 align="center">Hi there ! 👋 ,I'm <span style="color: #61DAFB">Nour</span></h1>
 
 ###
 
