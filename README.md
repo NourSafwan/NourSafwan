@@ -68,6 +68,11 @@
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="40" alt="npm logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=white&style=for-the-badge" height="40" alt="sentry logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=for-the-badge" height="40" alt="threejs logo"  />
+  <img width="12" />
+  <img src="https://1stwebdesigner.com/wp-content/uploads/2019/11/gsap-animation-01.png" height="40" alt="gsap logo"  />
+
 </div>
 
 ###
