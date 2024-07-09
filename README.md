@@ -79,7 +79,6 @@
 ###
 
 <br clear="both">
-![logoGsap](https://github.com/NourSafwan/NourSafwan/assets/95777628/0be9a852-fd1a-4aed-83ef-26e869e1440c)
 
 <h2 align="left">My github stats :</h2>
 
