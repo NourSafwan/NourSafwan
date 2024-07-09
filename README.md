@@ -73,8 +73,6 @@
   <img width="12" />
   <img src="https://github.com/NourSafwan/NourSafwan/assets/95777628/be265cce-1075-4a97-862c-b4542e744678" height="40" alt="gsap logo"  />
 
-  ![logoGsap](https://github.com/NourSafwan/NourSafwan/assets/95777628/be265cce-1075-4a97-862c-b4542e744678)
-
 
 </div>
 
