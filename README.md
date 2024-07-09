@@ -71,13 +71,17 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=for-the-badge" height="40" alt="threejs logo"  />
   <img width="12" />
-  <img src="https://1stwebdesigner.com/wp-content/uploads/2019/11/gsap-animation-01.png" height="40" alt="gsap logo"  />
+  <img src="https://github.com/NourSafwan/NourSafwan/assets/95777628/be265cce-1075-4a97-862c-b4542e744678" height="40" alt="gsap logo"  />
+
+  ![logoGsap](https://github.com/NourSafwan/NourSafwan/assets/95777628/be265cce-1075-4a97-862c-b4542e744678)
+
 
 </div>
 
 ###
 
 <br clear="both">
+![logoGsap](https://github.com/NourSafwan/NourSafwan/assets/95777628/0be9a852-fd1a-4aed-83ef-26e869e1440c)
 
 <h2 align="left">My github stats :</h2>
 
