@@ -71,7 +71,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=for-the-badge" height="40" alt="threejs logo"  />
   <img width="12" />
-  <img src="https://github.com/NourSafwan/NourSafwan/assets/95777628/be265cce-1075-4a97-862c-b4542e744678" height="40" alt="gsap logo"  />
+  <img src="https://camo.githubusercontent.com/f6b5c698c613ace5c409f5b9e5ac6af24af8de1453f99840c1df3a6e5d02dab0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d475341502d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465266c6f676f3d677265656e736f636b26636f6c6f723d383843453032" height="40" alt="gsap logo"  />
 
 
 </div>
