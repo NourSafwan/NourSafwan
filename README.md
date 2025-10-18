@@ -65,14 +65,15 @@
 
 <!-- ---
 
-### 🤖 DeepBit - AI-Powered Data Visualization Platform
-[![AI](https://img.shields.io/badge/AI-Powered-FF6B6B?style=flat-square)](https://ai.com)
-[![React](https://img.shields.io/badge/React-Latest-61DAFB?style=flat-square&logo=react)](https://reactjs.org/)
-[![Recharts](https://img.shields.io/badge/Recharts-2.8-8884D8?style=flat-square)](https://recharts.org/)
+### 🤖 DeepBit - AI-Powered Well Data Visualization Platform
+[![Next.js](https://img.shields.io/badge/Next.js-15.5.4-black?style=flat-square&logo=next.js)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-19.1.0-61DAFB?style=flat-square&logo=react)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
+[![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google)](https://ai.google.dev/)
 
-**AI-enhanced data visualization** platform with intelligent chart recommendations and real-time analytics. Integrated machine learning algorithms for predictive insights and automated report generation. -->
+**Modern geological data analysis platform** for oil and gas exploration teams. Features **Excel file upload**, **interactive Recharts visualizations** of rock composition and petrophysical properties, and **Google Gemini AI integration** for natural language data queries. Built with Next.js 15, React 19, and Zustand state management.
 
-</div>
+</div> -->
 
 ---
 
