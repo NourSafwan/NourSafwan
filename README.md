@@ -9,7 +9,7 @@
 <h2 align="center">🚀 Innovative Full Stack Engineer</h2>
 
 <p align="center">
-  <em>Transforming ideas into scalable web solutions with <strong>3+ years</strong> of experience</em><br>
+  <em>Transforming ideas into scalable web solutions with <strong>4+ years</strong> of experience</em><br>
   <em>Specializing in <strong>MERN Stack, Next.js, TypeScript</strong> with a proven track record of increasing user engagement by <strong>40%</strong></em>
 </p>
 
